@@ -7,21 +7,21 @@ Update script settings to match your environment
 
 Settings:
 
-data_folder : path to folder where files are in
+data_folder :    path to folder where files are in
 
-host : database ip or database url
+host        :    database ip or database url
 
-database : database name to connect
+database    :    database name to connect
 
-usr : database user
+usr         :    database user
 
-pw : database user password
+pw          :    database user password
 
-schema : schema to create new table, should already exist
+schema      :    schema to create new table, should already exist
 
-prefix : prefix pattern to find shapefiles in a folder
+prefix      :    prefix pattern to find shapefiles in a folder
 
-table : table name to create in database
+table       :    table name to create in database
 
 
 

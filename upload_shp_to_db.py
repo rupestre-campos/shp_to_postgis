@@ -5,7 +5,7 @@ import os
 #os.environ['SHAPE_ENCODING'] = "utf-8"
 
 
-data_folder = '/media/rupestre/DADOS/analise_CAR_RLs/car_data'
+data_folder = '/media/car_data'
 
 host = '999.999.999.99'
 database = 'gisDB'
